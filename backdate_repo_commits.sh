@@ -7,7 +7,7 @@ set -e
 
 # Configuration
 AUTHOR_NAME="abhi13-tech"
-AUTHOR_EMAIL="adunooriabhishekreddy@gmail.com"  # Replace with your actual email
+AUTHOR_EMAIL="adunooria1@montclair.edu"  # Replace with your actual email
 START_DATE="2023-06-01"  # Starting date for the project
 REPO_URL="https://github.com/abhi13-tech/Multi-Cloud-Infrastructure-with-Terraform-Wireguard-VPN.git"
 
